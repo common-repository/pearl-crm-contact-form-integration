@@ -1,0 +1,18 @@
+/* SmartForm Title */
+div.pageHeading { font-size: 1.6em; margin-bottom: 10px; }
+
+/* Pre and Post Submission Text */
+#contactMessage {}
+
+/* SmartForm */
+#contact-form {}
+	.contact-fieldset { margin-bottom: 5px; }
+		.contact-fieldtext { clear:left; display:block; float:left; margin-right:10px; text-align:right; width:120px; }
+		.contact-field {}
+			.contact-required { color:#990000; font-style:italic; }
+	.contact-foot { padding-left:130px; }
+		input.button {}
+
+/* Form Elements */
+input.inputText { width: 200px; }
+textarea.inputText { width:260px; height:160px; }
